@@ -27,7 +27,9 @@
 [![Badge](https://img.shields.io/badge/-TypeScript-F6F8FA?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Badge](https://img.shields.io/badge/-HTML-F6F8FA?style=for-the-badge&logo=html5)](https://html.spec.whatwg.org/multipage/)
 [![Badge](https://img.shields.io/badge/-CSS-F6F8FA?style=for-the-badge&logo=css3&logoColor=1572B6)](https://www.w3.org/Style/CSS/)
+[![Badge](https://img.shields.io/badge/styled--components-F6F8FA?style=for-the-badge&logo=styled-components&logoColor=FF31E8)](https://styled-components.com/)
 [![Badge](https://img.shields.io/badge/-Chakra&minus;UI-F6F8FA?style=for-the-badge&logo=chakraui)](https://chakra-ui.com/)
+[![Badge](https://img.shields.io/badge/Tailwind_CSS-F6F8FA?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)](https://tailwindcss.com/)
   </div>
 </div>
 
