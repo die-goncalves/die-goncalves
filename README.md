@@ -36,9 +36,28 @@
 <div align="center">
   <h4>Status do meu repositório no github</h4>
   <div>
-    <a href="https://github.com/die-goncalves">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=die-goncalves&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&border_radius=0"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=die-goncalves&layout=compact&langs_count=7&theme=buefy"/>
+    <picture>
+      <source 
+        srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=die-goncalves&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true&border_radius=0"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=die-goncalves&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_border=true&border_radius=0"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=die-goncalves&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_border=true&border_radius=0" />
+    </picture>
+    <picture>
+      <source 
+        srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=die-goncalves&layout=compact&langs_count=7&theme=nightowl&hide_border=true&border_radius=0"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=die-goncalves&layout=compact&langs_count=7&theme=buefy&hide_border=true&border_radius=0"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=die-goncalves&layout=compact&langs_count=7&theme=buefy&hide_border=true&border_radius=0" />
+    </picture>
   </div>
 </div>
 
